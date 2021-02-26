@@ -5,7 +5,7 @@
   "unity": "2020.1",
   "dependencies": {
   },
-  "description": "packagetest",
+  "description": "packagetest\nhallo",
   "author" : {
     "name" : "Bas Smit",
     "email" : "bas@bassmit.info",
